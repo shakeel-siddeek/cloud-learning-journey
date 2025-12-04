@@ -1,0 +1,12 @@
+# AWS Global Infrastructure
+
+### Key Components:
+- **Regions** → Physical locations with multiple data centers
+- **Availability Zones (AZs)** → Independent data centers within a region
+- **Edge Locations** → CDN endpoints for low-latency content delivery
+
+### Why it matters:
+- High availability
+- Redundancy
+- Low latency
+- Regulatory compliance
